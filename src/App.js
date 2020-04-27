@@ -5,7 +5,7 @@ export default class App extends Component {
     return (
       <div>
       App
-      <Button  >点击</Button>
+      <Button  >点击klmlkk</Button>
       </div>
     )
   }
